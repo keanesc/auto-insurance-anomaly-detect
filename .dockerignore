@@ -1,0 +1,7 @@
+.pixi/
+.git/
+data/
+plots/
+*.pdf
+__pycache__/
+*.pyc
